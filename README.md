@@ -3,12 +3,12 @@
  
  Here is the example of processed Video:
  <br>
- Input
+ <b>Input</b>
  <br>
 ![Input image](assest/input.gif)
  <br>
  <br>
- Output
+ <b>Output</b>
  <br>
 ![output image](assest/final_bb_output_2_1.gif)
  
