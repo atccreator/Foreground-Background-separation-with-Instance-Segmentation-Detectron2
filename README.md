@@ -1,4 +1,4 @@
-# detectron2_instance_segmentation
+# Applications of Foreground-Background separation with Instance Segmentation
  This repository contain the background separation ipynb file which is done using the opencv and detectron2
  
  Here is the example of processed Video:
