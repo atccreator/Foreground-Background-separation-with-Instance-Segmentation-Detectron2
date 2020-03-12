@@ -11,4 +11,8 @@
  <b>Output</b>
  <br>
 ![output image](assest/final_bb_output_2_1.gif)
+
+## Performing operation on Image
+
+![Input image](assest/Input_image.jpg.jpeg) ![Output image](assest/output_image.jpg)
  
